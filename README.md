@@ -1,16 +1,16 @@
 # 🤖📋 HR-ASSIST Agentic AI System
 This project implements a GenAI-powered MCP server equipped with intelligent HR management tools to streamline core HR processes.
 
-1. Employee Onboarding – Automates the entire onboarding workflow, including:
-   - Adding the new employee to the HRMS system.
-   - Sending a personalized welcome email with login credentials in a pre-defined format.
-   - Notifying the assigned manager about the new joiner’s onboarding.
-   - Raising service tickets for essential resources like a laptop, ID card, and other equipment.
-   - Scheduling an introductory meeting between the new employee and their manager.
+1. **Employee Onboarding – Automates the entire onboarding workflow, including:**
+   - 🗂️ Adding the new employee to the HRMS system.
+   - ✉️ Sending a personalized welcome email with login credentials in a pre-defined format.
+   - 📢 Notifying the assigned manager about the new joiner’s onboarding.
+   - 💻 Raising service tickets for essential resources like a laptop, ID card, and other equipment.
+   - 🗓️ Scheduling an introductory meeting between the new employee and their manager.
 
-2. Leave Management – Simplifies leave administration by enabling HR to:
-   - Apply for employee leaves through a conversational interface.
-   - Instantly check and display remaining leave balances.
+2. **Leave Management – Simplifies leave administration by enabling HR to:**
+   - 📝 Apply for employee leaves through a conversational interface.
+   - 📊 Instantly check and display remaining leave balances.
 
 The system leverages AI for natural language interaction with Claude desktop as a client, automates repetitive HR tasks, reduces manual errors, and ensures a smooth, consistent employee experience from day one.
 
